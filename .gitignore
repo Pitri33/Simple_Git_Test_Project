@@ -1,0 +1,5 @@
+*.cbp
+*.cbp.bak
+obj
+bin
+*.depend
